@@ -1,0 +1,8 @@
+.env
+.DS_Store
+*.sqlite
+*.sqlite.time
+/tmp/
+config_gas.json
+*.log
+
